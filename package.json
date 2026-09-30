@@ -26,13 +26,13 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "better-sqlite3": "^11.8.1",
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.7",
     "ejs": "^3.1.10",
     "express": "^4.22.2",
     "express-session": "^1.19.0",
-    "gifenc": "^1.0.3"
+    "gifenc": "^1.0.3",
+    "sql.js": "^1.10.2"
   },
   "optionalDependencies": {
     "@discordjs/voice": "^0.18.0",
